@@ -2,6 +2,6 @@ This is the first line.
 
 This is the second line!
 
-And third.
+And third special for the conflict-test branch.
 
-And a final fourth line!! This is it.
+And a final fourth line!! On the main branch.
